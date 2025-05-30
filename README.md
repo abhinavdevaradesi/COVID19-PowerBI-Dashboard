@@ -22,6 +22,7 @@ This project is an interactive **COVID-19 Dashboard** built using **Power BI**. 
 
 - `COVID-19 Global Dashboard.pbix` → Main Power BI file
 - `Screenshots/` → Visual previews of the dashboard
+- `Covid-19 DataSet.csv` → Dataset for project
 
 ## 🛠 Tools Used
 
