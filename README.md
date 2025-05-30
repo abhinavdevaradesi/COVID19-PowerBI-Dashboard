@@ -43,6 +43,7 @@ This project is an interactive **COVID-19 Dashboard** built using **Power BI**. 
 ## 🧑‍💻 Author
 
 **Abhinav D** – B.Tech CSE (Data Science), 2nd Year
+
 https://www.linkedin.com/in/abhinav-d-bab842300/ - LinkedIn Profile
 
 ---
